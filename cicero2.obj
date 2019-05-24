@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib cicero2.mtl
+
+# hatK
+
+g hatK
+usemtl Material.000001
+
