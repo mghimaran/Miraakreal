@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib cicero.mtl
+
+# hat
+
+g hat
+usemtl Material.000001
+
