@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib miraak3.mtl
+
+# MiraakHelm
+
+g MiraakHelm
+usemtl Material.000001
+
